@@ -1,1 +1,2 @@
 E:\QTM\LeTrieuThanhNguyen-Buoi8\Broadcast\bin\Debug\Broadcast.exe.config
+C:\Users\Nguyen Le\Desktop\LapTrinhMang-LeTrieuThanhNguyen_Buoi8\Broadcast\bin\Debug\Broadcast.exe.config
